@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fares.learning.kafka.integration</groupId>
-	<artifactId>spring-kafka</artifactId>
+	<artifactId>spring-kafka-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-kafka</name>
+	<name>spring-kafka-consumer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
